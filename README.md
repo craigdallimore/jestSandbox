@@ -20,16 +20,16 @@ No tests found for "src\sub".
 Using Jest CLI v0.9.2, jasmine2, babel-jest
 ```
 
-#### jest src\sub\__tests__
+#### jest src\sub\\\__tests__
 ```
 Using Jest CLI v0.9.2, jasmine2, babel-jest
 No tests found for "src\sub\__tests__".
 ```
 
-#### jest src\sub\__tests__\srcsub.test.js
+#### jest src\sub\\\__tests__\srcsub.test.js
 ```
 Using Jest CLI v0.9.2, jasmine2, babel-jest
-No tests found for "src\sub\__tests__\srcsub.test.js".
+No tests found for "src\sub\\\__tests__\srcsub.test.js".
 ```
 
 #### cd src
